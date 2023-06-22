@@ -1,4 +1,4 @@
-# Hands-on Terraform-01 : Terraform Installation and Basic Operations:
+# Hands-on Terraform-01: Terraform Installation and Basic Operations:
 
 Purpose of the this hands-on training is to give students the knowledge of basic operations in Terraform.
 
